@@ -14,18 +14,18 @@ kernelspec:
 
 # 1.1 Installation
 
-For the upcoming semester, we need to use functions from the R programming languae, which we will use within Python through the `rpy2` package.
+For the upcoming semester, we need to use functions from the R programming language, which we will use within Python through the `rpy2` package.
 
 You should have the following installed from last semester already:
 
-- Anaconda (miniconda)
+- Anaconda (miniforge)
 - Code editor (e.g. Visual Studio code)
 
 If not, please re-visit the installation instructions from the [psy111](https://mibur1.github.io/psy111/book/introduction/1_Setup/0_Introduction.html) module.
 
 As we need many new packages (and even a new programming language) this semester, we start by setting up a new conda environment for the course. 
 
-In the Miniconda prompt (later, we'll see how to access Conda from the VS Code terminal), let's first ensure that we install the necessary dependencies from an up-to-date and reliable source. We’ll do this by adding the conda-forge channel and setting it as the default with strict priority.
+In the Miniforge prompt (later, we'll see how to access Conda from the VS Code terminal), let's first ensure that we install the necessary dependencies from an up-to-date and reliable source. We’ll do this by adding the conda-forge channel and setting it as the default with strict priority.
 
 ```bash
 conda config --add channels conda-forge
