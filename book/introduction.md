@@ -66,7 +66,5 @@ Explore the chapter {fas}`arrow-right`
 ::::
 
 ### Useful links:
-- [Lecture material](https://elearning.uni-oldenburg.de/dispatch.php/course/files?cid=a819b16aace4eb774d54b16947317b94)
-- [Seminar material group 1](https://elearning.uni-oldenburg.de/dispatch.php/course/files?cid=8d69f333772c13bb395a1419339af627)
-- [Seminar material group 2](https://elearning.uni-oldenburg.de/dispatch.php/course/files?cid=3d8547867bacf69380f84167a5b35e29)
-
+- [Lecture material](https://elearning.uni-oldenburg.de/dispatch.php/course/files?cid=f6f5f21b5cde99e019abb9ccd88ec203)
+- [Seminar material](https://elearning.uni-oldenburg.de/dispatch.php/course/files?cid=a362907590086df99046e47a4809b33f)
