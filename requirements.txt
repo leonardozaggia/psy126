@@ -7,7 +7,6 @@ nilearn
 scipy
 statsmodels
 semopy
-rpy2==3.5.7
 scikit-learn
 jupyterquiz
 jupytercards
