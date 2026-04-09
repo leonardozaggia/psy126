@@ -25,7 +25,7 @@ The book includes notebooks and slides on:
 
 ## Online usage (recommended)
 
-The book is best viewed online via GitHub Pages: [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://leonardozaggia.github.io/psy126/)
+The book is best viewed online via GitHub Pages:  [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/next/docs/media/images/badge.svg)](https://leonardozaggia.github.io/psy126/)
 
 ## Local usage
 
