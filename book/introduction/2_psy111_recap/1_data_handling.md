@@ -30,6 +30,7 @@ We can use .info() to get a closer look into our data:
 
 ```{code-cell}
 print(df_c.info())        # Summary including data types and non-null counts
+print()                   # Add empty line for readability 
 print(df_c.columns)       # List of column names
 ```
 
@@ -50,6 +51,7 @@ We can count the number of missing value per category:
 missing_values_count = df_y.isna().sum()    # Count of missing values per column
 
 print("In our dataset the following columns have the specified number of missing values:")
+print()
 print(missing_values_count)
 ```
 `NaN` values need to be removed, or we won't be able to perform our analyses. We could fix our dataset using either one of the following strategies:
