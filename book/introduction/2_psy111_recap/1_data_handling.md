@@ -13,7 +13,7 @@ kernelspec:
 ---
 
 # 2.1 Data Handling 
-First, we load the dataset:
+First, we load the [dataset](https://github.com/leonardozaggia/psy126/tree/main/book/introduction/2_psy111_recap/data):
 
 ## Loading Data
 
