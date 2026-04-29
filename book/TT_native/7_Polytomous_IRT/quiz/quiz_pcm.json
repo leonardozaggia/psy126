@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Do the item difficulties in the Person-Item Map seem to cover the range of person abilities well?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Yes, they are well distributed across the latent trait range.",
+        "correct": true
+      },
+      {
+        "answer": "No, there are gaps at the higher and lower ends of the trait continuum.",
+        "correct": false
+      },
+      {
+        "answer": "Yes, all items target the same level of the trait.",
+        "correct": false
+      },
+      {
+        "answer": "No, because all items are located far from the average person score.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If a person has a trait level above the first threshold but below the second for an item, what does that suggest?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "They are most likely to respond in the second category.",
+        "correct": true
+      },
+      {
+        "answer": "They will likely respond in the highest category.",
+        "correct": false
+      },
+      {
+        "answer": "They have an equal chance of choosing any category.",
+        "correct": false
+      },
+      {
+        "answer": "They are most likely to respond in the first category.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why is the PCM’s flexibility in allowing different numbers of response categories per item useful?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "It allows each item to reflect the complexity or subtlety of that question's concept.",
+        "correct": true
+      },
+      {
+        "answer": "It ensures all items are equally difficult.",
+        "correct": false
+      },
+      {
+        "answer": "It reduces the need for person fit analysis.",
+        "correct": false
+      },
+      {
+        "answer": "It simplifies scoring by making all items binary.",
+        "correct": false
+      }
+    ]
+  }
+]

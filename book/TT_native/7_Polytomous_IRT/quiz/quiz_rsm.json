@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Based on the threshold parameter output, which item appears to be the easiest?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "The item with the lowest threshold value.",
+        "correct": true
+      },
+      {
+        "answer": "The item with the lowest location value.",
+        "correct": true
+      },
+      {
+        "answer": "The item with the most evenly distributed thresholds.",
+        "correct": false
+      },
+      {
+        "answer": "The item with the highest item–person correlation.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Referring to the person–item map, how can you identify a respondent with a particularly high level of empathy?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "They are located far above the item thresholds on the latent trait scale.",
+        "correct": true
+      },
+      {
+        "answer": "They are located near the average item thresholds.",
+        "correct": false
+      },
+      {
+        "answer": "They are located below most item thresholds on the map.",
+        "correct": false
+      },
+      {
+        "answer": "Their answers are evenly distributed across items.",
+        "correct": false
+      }
+    ]
+  }
+]

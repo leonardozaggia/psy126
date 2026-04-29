@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Based on the comparison of the PCM and GPCM, why might the GPCM be a better fit for the ST items?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Because it allows each item to have a unique discrimination parameter, improving model fit when items vary in how strongly they relate to the latent trait.",
+        "correct": true
+      },
+      {
+        "answer": "Because it forces all items to have the same discrimination, simplifying the model.",
+        "correct": false
+      },
+      {
+        "answer": "Because it treats all items as dichotomous, which reduces complexity.",
+        "correct": false
+      },
+      {
+        "answer": "Because it removes threshold estimation, focusing only on person parameters.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Examine the ICC plots for both models. How does the inclusion of discrimination parameters in the GPCM change the interpretation of item difficulty and discrimination?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "It allows items to vary in slope, meaning that items can differ in how sharply they distinguish between individuals at different levels of the trait.",
+        "correct": true
+      },
+      {
+        "answer": "It shifts the thresholds uniformly but keeps the slope constant across items.",
+        "correct": false
+      },
+      {
+        "answer": "It removes thresholds and focuses only on item means.",
+        "correct": false
+      },
+      {
+        "answer": "It fixes all item slopes to 1 to ensure comparability.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "In what situations might you prefer to use a PCM even if the GPCM fits the data slightly better?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "When you want a more parsimonious model and assume equal discrimination due to theoretical reasons.",
+        "correct": true
+      },
+      {
+        "answer": "When you want to model guessing behavior in multiple-choice items.",
+        "correct": false
+      },
+      {
+        "answer": "When the data include missing values and require imputation.",
+        "correct": false
+      },
+      {
+        "answer": "When item categories are unordered and nominal.",
+        "correct": false
+      }
+    ]
+  }
+]

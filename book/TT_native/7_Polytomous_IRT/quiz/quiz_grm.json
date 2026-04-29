@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Interpret the OCC plot for the first item. What do the curves indicate about the response behavior at different levels of the latent trait?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "They show the probability of selecting a specific category at each trait level.",
+        "correct": false
+      },
+      {
+        "answer": "They show the cumulative probability of scoring at or above each category threshold.",
+        "correct": true
+      },
+      {
+        "answer": "They show item difficulty parameters only.",
+        "correct": false
+      },
+      {
+        "answer": "They represent the overall test information at different ability levels.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How do ICCs in the GRM differ from those in the GPCM in terms of probability structure?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "GRM ICCs are cumulative; GPCM ICCs show exact category probabilities.",
+        "correct": false
+      },
+      {
+        "answer": "GRM ICCs show the probability of each category; GPCM ICCs show cumulative probabilities.",
+        "correct": false
+      },
+      {
+        "answer": "GRM ICCs and GPCM ICCs both show the probability of selecting a specific category, but the GRM derives them from cumulative thresholds.",
+        "correct": true
+      },
+      {
+        "answer": "Both models use identical ICC structures but with different estimation techniques.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example where the GRM might be more appropriate than the PCM or GPCM?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "A vocabulary test scored dichotomously as correct or incorrect.",
+        "correct": false
+      },
+      {
+        "answer": "A questionnaire measuring attitudes using a 5-point Likert scale.",
+        "correct": true
+      },
+      {
+        "answer": "A math test graded using partial credit for different solution steps.",
+        "correct": false
+      },
+      {
+        "answer": "A reaction time task scored as fast/slow.",
+        "correct": false
+      }
+    ]
+  }
+]
