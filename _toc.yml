@@ -51,7 +51,7 @@ parts:
 
       - file: book/TT/10_Multilevel/0_Introduction
         sections:
-          - file: book/TT/10_Multilevel/1_irt_fa        
+          - file: book/TT/10_Multilevel/1_irt_fa.ipynb
           - file: book/TT/10_Multilevel/2_irt_exp
           - file: book/TT/10_Multilevel/3_irt_conf
           - file: book/TT/10_Multilevel/4_exercises
